@@ -14,16 +14,9 @@
 
 ## Technical Expertise
 
-```
-🔹 Backend: Java, Spring Boot, Spring Framework, RESTful APIs
-🔹 Frontend: JavaScript, React.js, HTML5/CSS3
-🔹 Databases: MySQL, PostgreSQL
-🔹 DevOps: Git, Docker
-
-```
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,javascript,react,mysql,postgres,git,aws,docker&theme=light" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,react,mysql,postgres,git,github,docker&theme=light" alt="Tech Stack" />
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="48" height="48" style="margin: 0 4px"/>
 </div>
 
 ## Current Focus
@@ -31,7 +24,6 @@
 - 🎓 Pursuing BS Information Technology at University of Education, Lahore
 - 🔭 Working on enterprise-grade full-stack applications
 - 🌱 Advancing my Spring Boot and microservices architecture knowledge
-- 🚀 Exploring cloud-native development patterns
 - 📊 Enhancing database optimization techniques
 
 ## Analytics & Statistics
@@ -40,9 +32,6 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RomanAliSher&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomanAliSher&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 </div>
-
-
-
 
 ## Professional Network
 
@@ -57,8 +46,6 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
-
-
 
 <hr>
 
