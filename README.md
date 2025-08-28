@@ -9,7 +9,7 @@
 > Full Stack Developer to be... specializing in Java technologies and modern web frameworks. Currently pursuing BS Information Technology at University of Education, Lahore. Passionate about building scalable applications and continuous learning.
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=18&pause=1000&color=4F94EF&center=true&vCenter=true&width=600&lines=Java+and+Spring+Boot+Development;Full+Stack+Web+Applications;Database+Design+and+Optimization;BS+IT+Student+at+UE+Lahore" alt="Areas of Expertise" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=18&pause=1000&color=4F94EF&center=true&vCenter=true&width=600&lines=Java+and+Spring+Boot+Development;Frontend+Development;Full+Stack+Web+Applications;Database+Design+and+Optimization;BS+IT+Student+at+UE+Lahore" alt="Areas of Expertise" />
 </div>
 
 ## Technical Expertise
@@ -26,12 +26,7 @@
 - 🌱 Advancing my Spring Boot and microservices architecture knowledge
 - 📊 Enhancing database optimization techniques
 
-## Analytics & Statistics
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RomanAliSher&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomanAliSher&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-</div>
 
 ## Professional Network
 
