@@ -15,8 +15,8 @@
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,react,mysql,postgres,git,github,react,tailwind,postman,html,css,c,docker&theme=light" alt="Tech Stack" />
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="48" height="48" style="margin: 0 4px"/>
+  <img src="https://skillicons.dev/icons?i=java,idea,spring,js,react,mysql,postgres,git,github,react,tailwind,postman,html,css,c,docker&theme=light" alt="Tech Stack" />
+  
 </div>
 
 ## Current Focus
