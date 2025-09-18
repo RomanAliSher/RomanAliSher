@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="450" alt="Software Development">
 </div>
 
-## Professional Summary
+##Professional Summary
 
 > Full Stack Developer specializing in Java technologies and modern web frameworks. Currently pursuing BS Information Technology at University of Education, Lahore. Passionate about building scalable applications and continuous learning.
 
