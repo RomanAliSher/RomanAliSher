@@ -6,7 +6,7 @@
 
 ## Professional Summary
 
-> Full Stack Developer specializing in Java technologies and modern web frameworks. Currently pursuing BS Information Technology at University of Education, Lahore. Passionate about building scalable applications and continuous learning.
+> Full Stack Developer specializing in Java technologies and modern web frameworks. Currently pursuing BS Information Technology at University of Education, Lahore. Passionate about building scalable applications and continuous learning.Lookig forwad to connect
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=18&pause=1000&color=4F94EF&center=true&vCenter=true&width=600&lines=Java+and+Spring+Boot+Development;Frontend+Development;Full+Stack+Web+Applications;Database+Design+and+Optimization;BS+IT+Student+at+UE+Lahore" alt="Areas of Expertise" />
