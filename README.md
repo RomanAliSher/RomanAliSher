@@ -23,7 +23,7 @@
 
 - 🎓 Pursuing BS Information Technology at University of Education, Lahore
 - 🔭 Working on enterprise-grade full-stack applications
-- 🌱 Advancing my Spring Boot and microservices architecture knowledge
+- 🌱 Advancing Spring Boot and microservices architecture knowledge
 - 📊 Enhancing database optimization techniques
 
 
